@@ -13,7 +13,3 @@ Calculator for BigInteger without limitations. Some features:
 We also allow you to know how much time and memory that operator or function takes.
 
 For more detail, please read our Document.
-
-Authors:
-- 20120504 - Nhan Gia Khâm 
-- 20120025 - Hoàng Trọng Vũ
